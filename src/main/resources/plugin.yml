@@ -1,0 +1,5 @@
+name: BetterDispensers
+version: '${project.version}'
+main: com.marlongrazek.betterdispensers.main.Main
+api-version: 1.18
+author: MarlonGrazek
